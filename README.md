@@ -1,4 +1,4 @@
-# numsystems-cli
+# numsystems-cli (PL)
 
 A simple interactive console application written in C# for learning and converting numbers between different numeral systems.
 
